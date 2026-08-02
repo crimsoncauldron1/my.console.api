@@ -1,72 +1,145 @@
-{
   "admins": [
-    {
-      "name": "BluePikmin",
-      "user-id": "46FADF31D76E795B"
+     {
+      "name": "VR12",
+      "user-id": "707651F6F1AD29F8",
+      "discord-id": "810014649490997311"
+    },
+     {
+      "name": "Obj",
+      "user-id": "69B87228EC7FF7F2",
+      "discord-id": "1328968895838818388"
     },
     {
-      "name": "BluePikmin2",
-      "user-id": "2B70BC76A222B12C"
+     "name": "1x1x1x1VR121",
+      "user-id": "86AF3B9F3A525AA8",
+      "discord-id": "810014649490997311"
     },
     {
-      "name": "BluePikmin3",
-      "user-id": "9A10F28FBFB9A084"
+     "name": "1x1x1x1VR1212",
+      "user-id": "B3B46AA3FC3BAEB",
+      "discord-id": "810014649490997311"
+    },
+     {
+     "name": "FemboyFurry",
+      "user-id": "B52B30926D69DEAE",
+      "discord-id": "1328968895838818388"
+    },
+  
+    {
+     "name": "Lawson",
+      "user-id": "E9E16761594AC84B",
+      "discord-id": "1199930025009483776"
+    },
+     {
+     "name": "1x1x1x1VR123",
+      "user-id": "4F37AE2B357CCBB9",
+      "discord-id": "810014649490997311"
+    },
+     {
+     "name": "Lexi",
+      "user-id": "A4E06D8CDF522CDA",
+      "discord-id": "1361940738828664945"
+    },
+     {
+     "name": "Larp",
+      "user-id": "621C2851D942720B",
+      "discord-id": "1162848879427997856"
     },
     {
-      "name": "BluePikmin",
-      "user-id": "1FCB35BC16B01331"
+     "name": "Lexi",
+      "user-id": "ECA1FAD872EC5EF3",
+      "discord-id": "1361940738828664945"
     },
-    {
-      "name": "BluePikmin4",
-      "user-id": "B09E96D2A9159321"
-    },
-    {
-      "name": "Zacharyzone",
-      "user-id": "D016F34A23C43541"
-    },
-    {
-      "name": "UNLUCKY",
-      "user-id": "13F9F507E1B3263"
-    },
-    {
-      "name": "goldentrophy",
-      "user-id": "F8B6C8CF1A444EC3"
-    },
-    {
-      "name": "s-shiwokazwe :3",
-      "user-id": "67F3313135556BAC"
-    },
-    {
-      "name": "INOXI",
-      "user-id": "D6FDC3A96E989D87"
-    },
-    {
-      "name": "INOXI-PERMENT",
-      "user-id": "F7A8BE00DE85C3A2"
-    },
-    {
-      "name": "LEXI",
-      "user-id": "467114172575CC01"
-    },
-    {
-      "name": "LEXI_2th",
-      "user-id": "A4E06D8CDF522CDA"
-    },
-    {
-      "name": "AltA",
-      "user-id": "F6C39B7FB09ABD98"
-    },
-    {
-      "name": "Lexi-Standi",
-      "user-id": "15C2C133F06E4FA3"
-    }
-  ],
 
+    {
+     "name": "CubePanel",
+      "user-id": "B7F0892F6816B2DF",
+      "discord-id": "1490766111086481478"
+    },
+    
+    {
+     "name": "DeadCourt",
+      "user-id": "6F35E98ADCE70569",
+      "discord-id": "1468054500475670659"
+    },
+    {
+      "name": "FarmingKing",
+      "user-id": "2A2E334D25358BAB",
+      "discord-id": "1411776191379280046"
+    },
+    {
+      "name": "Gore",
+      "user-id": "30CABA3A8C73DCBB",
+      "discord-id": "1049346303798284308"
+    },
+     {
+      "name": "Coco.wtf",
+      "user-id": "7AD8468392F58DD5",
+      "discord-id": "1153432454980448381"
+    },
+     {
+      "name": "Carblo",
+      "user-id": "630DBB2D45DC0A58",
+      "discord-id": "1520767286011629570"
+    },
+     {
+      "name": "CarbloYTT",
+      "user-id": "F080D16D16AD37FB",
+      "discord-id": "1520767286011629570"
+    },
+
+     {
+      "name": "NebulaVR",
+      "user-id": "DC69A51C20C74461",
+      "discord-id": "1291799197464526890"
+    },
+     {
+      "name": "Devxxz",
+      "user-id": "BCF3B73788E6442",
+      "discord-id": "648235026604883968"
+    },
+   
+     {
+      "name": "MIM3",
+      "user-id": "D895E027487E1A02",
+      "discord-id": "1365717439236800745"
+    },
+     {
+      "name": "Crimson-chan",
+      "user-id": "F641264BC1E4B9C9",
+      "discord-id": "1505252342566490363"
+    },
+     {
+      "name": "GT13",
+      "user-id": "97B65BE3D2AD91CA",
+      "discord-id": "1530402993277763654"
+    },
+     {
+      "name": "Husky",
+      "user-id": "ADD5606FD8310A77",
+      "discord-id": "1437161137958293604"
+    },
+    {
+      "name": "UnLucky",
+      "user-id": "13F9F507E1B3263",
+      "discord-id": "1169440354471268403"
+    },
+  ],
   "super-admins": [
-    "F8B6C8CF1A444EC3",
-    "67F3313135556BAC",
-    "467114172575CC01",
-    "A4E06D8CDF522CDA",
-    "F6C39B7FB09ABD98"
-  ]
-}
+    "VR12",
+    "Quackers",
+    "1x1x1x1VR12",
+    "1x1x1x1VR121",
+    "1x1x1x1VR1212",
+    "FemboyFurry",
+    "Lawson",
+    "1x1x1x1VR123",
+    "CubePanel",
+    "DeadCourt",
+    "Devxxz",
+    "Crimson-chan",
+    "UnLucky",
+  
+   
+    
+  ],
